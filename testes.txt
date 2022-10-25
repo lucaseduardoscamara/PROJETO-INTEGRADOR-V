@@ -1,0 +1,21 @@
+testes a serem realizados:
+
+onboarding:
+devera mudar o banner e a descrição ao clicar em continuar
+devera alterar o texto do botao ao chegar na ultima tela
+ao clicar no botao da terceira tela, devera redirecionar para o login
+
+login:
+tem q ter um input de email e outro de senha
+ao clicar entrar com o email e senha ´preenchidos, devera logar o usuario
+
+
+home:
+devera conter um banner abaixo da barra de pesquisa
+devera ter uma listagem de conteudos
+ao clicar no card devera navegar para a proxima tela com um stepper com perguntas
+
+
+perguntas:
+ao responder as pergubntas o progresso do stepper devera subir
+no final, devera conter uma imagem com o resultado
