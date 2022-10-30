@@ -1,0 +1,7 @@
+Banner 1: Vamos lá! Clique em continuar para iniciar a nossa jornada.
+
+Banner 2: Vamos lá Aperte continuar para selecionarmos as opções que mais se encaixa com o seu perfil (não vale mentir hein).
+
+Banner 3: Vamos Lá!
+
+Banner home: Avaliação emocional ,Traçar o meu perfil , Dicas
